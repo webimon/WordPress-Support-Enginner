@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Picturama Alternate PERSONAL';
+    src: url('../font/PicturamaAlternatePERSONAL-Regular.woff2') format('woff2'),
+        url('../font/PicturamaAlternatePERSONAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Picturama Alternate PERSONAL' cursive;
+    font-style: italic;
+    color: brown;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
